@@ -1,0 +1,45 @@
+{
+  "data": [
+      {
+      "musicId": 1,
+      "musicName": "Six Feet Under",
+      "artistName": "Billie Eilish",
+      "cover": "https://raw.githubusercontent.com/SplitGemini/Music/master/cover/Billie+Eilish+-+Six+Feet+Under.jpg",
+      "musicUrl" : "https://raw.githubusercontent.com/SplitGemini/Music/master/Billie+Eilish+-+Six+Feet+Under.mp3",
+      "fileName" : "Billie+Eilish+-+Six+Feet+Under",
+      "musicDescription" : "听着歌，仿佛看到了一座静默的墓园。起初女孩在滂沱大雨里哭泣，后来只剩下弥散雾气里开着的玫瑰和青苔的味道。",
+      "musicLyric" : "[00:00.00]Six Feet Under - Billie Eilish\r\n[00:00.26]Written by:Finneas O'Connell\r\n[00:00.52]Help I lost myself again\r\n[00:07.30]But I remember you\r\n[00:14.73]Don't come back it won't end well\r\n[00:21.26]But I wish you'd tell me to\r\n[00:27.67]Our love is six feet under\r\n[00:31.37]I can't help but wonder\r\n[00:34.94]If our grave was watered by the rain\r\n[00:41.90]Would roses bloom\r\n[00:48.78]Could roses bloom\r\n[00:56.97]Again\r\n[01:00.53]Retrace my lips\r\n[01:04.03]Erase your touch\r\n[01:07.63]It's all too much for me\r\n[01:14.93]Blow away\r\n[01:18.16]Like smoke in air\r\n[01:21.58]How can you die carelessly\r\n[01:27.97]Our love is six feet under\r\n[01:32.13]I can't help but wonder\r\n[01:35.23]If our grave was watered by the rain\r\n[01:42.18]Would roses bloom\r\n[01:49.35]Could roses bloom\r\n[01:57.73]They're playing our sound\r\n[01:59.53]Laying us down tonight\r\n[02:04.67]And all of these clouds\r\n[02:06.44]Bringing us back to life\r\n[02:10.55]But you're cold as a night\r\n[02:15.48]Six feet under\r\n[02:18.39]I can't help but wonder\r\n[02:21.55]If our grave was watered by the rain\r\n[02:29.80]Bloom\r\n[02:37.02]Bloom\r\n[02:43.67]Again\r\n[02:51.16]Help I lost myself again\r\n[02:57.84]But I remember you"
+      },
+      {
+      "musicId": 2,
+      "musicName": "水星记",
+      "artistName": "郭顶",
+      "cover": "https://raw.githubusercontent.com/SplitGemini/Music/master/cover/Guo+Ding+-+ShuiXingJi.jpg",
+      "musicUrl" : "https://raw.githubusercontent.com/SplitGemini/Music/master/Guo+Ding+-+ShuiXingJi.mp3",
+      "fileName" : "Guo+Ding+-+ShuiXingJi",
+      "musicDescription": "在天文学中，逃逸速度表示物体逃脱星球引力的速度，水星的逃逸速度是4.435km/s，但这并不意味着逃离，我愿意，也希望你吸引我轨迹。",
+      "musicLyric" : "[00:00.00]水星记 (Mercury Records) - 郭顶\r\n[00:03.90]词：郭顶\r\n[00:07.80]曲：郭顶\r\n[00:11.70]编曲：郭顶\r\n[00:15.60]制作人：郭顶\r\n[00:19.50]着迷于你眼睛\r\n[00:23.21]银河有迹可循\r\n[00:26.46]穿过时间的缝隙\r\n[00:30.04]它依然真实地\r\n[00:33.76]吸引我轨迹\r\n[00:40.74]这瞬眼的光景\r\n[00:44.27]最亲密的距离\r\n[00:47.77]沿着你皮肤纹理 走\r\n[00:51.68]过曲折手臂\r\n[00:55.26]做个梦给你\r\n[00:58.88]做个梦给你\r\n[01:03.97]等到看你银色满际\r\n[01:07.37]等到分不清季节更替\r\n[01:13.24]才敢说沉溺\r\n[01:20.28]还要多远才能进入你的心\r\n[01:27.47]还要多久才能和你接近\r\n[01:34.63]咫尺远近却\r\n[01:37.08]无法靠近的那个人\r\n[01:42.30]也等着和你相遇\r\n[01:49.33]环游的行星\r\n[01:52.57]怎么可以\r\n[01:56.43]拥有你\r\n[02:14.03]这瞬眼的光景\r\n[02:17.42]最亲密的距离\r\n[02:20.93]沿着你皮肤纹理\r\n[02:24.61]走过曲折手臂\r\n[02:28.36]做个梦给你\r\n[02:31.88]做个梦给你\r\n[02:36.89]等到看你银色满际\r\n[02:40.59]等到分不清季节更替\r\n[02:46.17]才敢说沉溺\r\n[02:53.44]还要多远才能进入你的心\r\n[03:00.63]还要多久才能和你接近\r\n[03:07.73]咫尺远近却\r\n[03:09.86]无法靠近的那个人\r\n[03:15.43]也等着和你相遇\r\n[03:22.13]环游的行星\r\n[03:25.69]怎么可以\r\n[03:29.38]拥有你\r\n[04:05.52]还要多远才能进入你的心\r\n[04:12.23]还要多久才能和你接近\r\n[04:19.35]咫尺远近却无法靠近的那个人\r\n[04:26.99]要怎么探寻\r\n[04:30.62]要多么幸运\r\n[04:33.84]才敢让你发觉你并不孤寂\r\n[04:40.81]当我还可以再跟你飞行\r\n[04:47.99]环游是无趣\r\n[04:51.64]至少可以\r\n[04:55.54]陪着你"
+      
+      },
+      {
+      "musicId": 3,
+      "musicName": "HUMBLE.",
+      "artistName": "Kendrick Lamar",
+      "cover": "https://raw.githubusercontent.com/SplitGemini/Music/master/cover/Kendrick+Lamar+-+HUMBLE.jpg",
+      "musicUrl" : "https://raw.githubusercontent.com/SplitGemini/Music/master/Kendrick+Lamar+-+HUMBLE.mp3",
+      "fileName" : "Kendrick+Lamar+-+HUMBLE.mp3",
+      "musicDescription": "Bitch, Sit down! Be Humble!",
+      "musicLyric" : "[00:04.00]HUMBLE.(Explicit) - Kendrick Lamar\r\n[00:05.03]Written by：Kendrick Lamar/A. Hogan/Michael L. Williams II\r\n[00:06.06]Nobody pray for me\r\n[00:07.12]\r\n[00:07.67]It's been that day for me\r\n[00:08.69]\r\n[00:09.27]Waaaaay yeah yeah\r\n[00:12.02]Ayy I remember syrup sandwiches and crime allowances\r\n[00:15.45]Finesse a ni**a with some counterfeits\r\n[00:17.45]But now I'm countin' this\r\n[00:18.89]Parmesan where my accountant lives in fact\r\n[00:21.04]I'm downin' this\r\n[00:22.03]D'USSE with my boo bae tastes\r\n[00:23.48]Like Kool-Aid for the analysts\r\n[00:25.21]Girl I can buy yo' a** the world with my paystub\r\n[00:28.47]Ooh that p**sy good won't you sit it on my taste bloods\r\n[00:31.71]I get way too petty once you let me do the extras\r\n[00:34.90]Pull up on your block then break it down\r\n[00:36.65]We playin' Tetris\r\n[00:38.08]A.M. to the P.M. P.M. to the A.M. funk\r\n[00:41.28]Piss out your per Diem you just gotta hate 'em funk\r\n[00:43.97]\r\n[00:44.47]If I quit your BM I still ride Mercedes funk\r\n[00:47.60]If I quit this season I still be the greatest funk\r\n[00:50.62]My left stroke just went viral\r\n[00:53.66]Right stroke put lil' baby in a spiral\r\n[00:56.67]Soprano C we like to keep it on a high note\r\n[00:59.83]It's levels to it you and I know\r\n[01:02.11]B**ch be humble hol' up b**ch\r\n[01:04.01]Sit down hol' up lil' hol' up\r\n[01:05.58]Be humble hol' up b**ch\r\n[01:07.23]Sit down sit down lil' sit down lil'\r\n[01:08.90]Be humble hol' up hol' up\r\n[01:10.28]B**ch sit down hol' up lil' b**ch\r\n[01:11.93]Be humble hol' up b**ch\r\n[01:13.53]Sit down hol' up hol' up hol' up\r\n[01:15.26]Be humble hol' up hol' up\r\n[01:16.76]Sit down hol' up lil' hol' up lil'\r\n[01:18.53]Be humble hol' up b**ch\r\n[01:19.87]Sit down sit down lil' sit down lil'\r\n[01:21.73]Be humble hol' up\r\n[01:22.75]B**ch sit down hol' up lil' b**ch\r\n[01:24.78]Be humble hol' up b**ch\r\n[01:26.42]Sit down hol' up hol' up hol' up hol' up\r\n[01:28.39]Who dat ni**a thinkin'\r\n[01:29.61]That he frontin' on Man Man Man Man\r\n[01:31.63]Get the f**k off my stage I'm the Sandman Sandman\r\n[01:34.85]Get the f**k off my dick that ain't right\r\n[01:37.99]I make a play f**king up your whole life\r\n[01:41.21]I'm so f**kin' sick and tired of the Photoshop\r\n[01:44.40]Show me somethin' natural like Afro on Richard Pryor\r\n[01:47.65]Show me somethin' natural like a**\r\n[01:49.66]With some stretch marks\r\n[01:50.83]Still will take you down right on your mama's\r\n[01:52.84]Couch in polo socks\r\n[01:54.05]Ayy this sh*t way too crazy\r\n[01:55.60]Ayy you do not amaze me ayy\r\n[01:57.70]I blew cool from AC ayy Obama just paged me ayy\r\n[02:00.87]I don't fabricate it ayy most of y'all be fakin' ayy\r\n[02:04.07]I stay modest 'bout it ayy she elaborate it ayy\r\n[02:07.29]This that Grey Poupon that Evian that TED Talk ayy\r\n[02:10.44]Watch my soul speak you let the meds talk ayy\r\n[02:13.71]If I kill a ni**a it won't be the alcohol ayy\r\n[02:16.87]I'm the realest ni**a after all\r\n[02:18.86]B**ch be humble hol' up b**ch\r\n[02:20.68]Sit down hol' up lil' hol' up lil' b**ch\r\n[02:22.59]Be humble hol' up b**ch\r\n[02:23.88]Sit down sit down lil' sit down\r\n[02:25.62]Be humble hol' up\r\n[02:26.82]B**ch sit down hol' up lil' b**ch\r\n[02:28.85]Be humble b**ch hol' up b**ch\r\n[02:30.38]Sit down hol' up hol' up hol' up\r\n[02:32.07]Be humble hol' up hol' up\r\n[02:33.51]Sit down hol' up lil' hol' up\r\n[02:35.18]Be humble hol' up b**ch\r\n[02:36.75]Sit down sit down lil' sit down\r\n[02:38.43]Be humble hol' up hol' up\r\n[02:39.86]B**ch sit down hol' up lil' b**ch\r\n[02:41.55]Be humble b**ch hol' up b**ch\r\n[02:43.18]Sit down hol' up hol' up hol' up hol' up"
+      },
+      {
+      "musicId": 4,
+      "musicName": "郭源潮",
+      "artistName": "宋冬野",
+      "cover": "https://raw.githubusercontent.com/SplitGemini/Music/master/cover/Song+DongYe+-+Guo+YuanChao.jpg",
+      "musicUrl" : "https://raw.githubusercontent.com/SplitGemini/Music/master/Song+DongYe+-+Guo+YuanChao.mp3",
+      "fileName" : "Song+DongYe+-+Guo+YuanChao.mp3",
+      "musicDescription": "“祝这世界继续热闹，祝我仍是我。你我山前没相见，山后别相逢。",
+      "musicLyric" : "[00:00.00]郭源潮 - 宋冬野 (Donye.S)\r\n[00:02.22]词：宋冬野\r\n[00:04.45]曲：宋冬野\r\n[00:06.67]编曲：宋冬野/郑仕伟/闫津/吴金迪/周冠辰/张超/祖力卡尔\r\n[00:08.90]制作人：宋冬野\r\n[00:11.13]吉他：吴金迪\r\n[00:13.35]贝斯：周冠辰\r\n[00:15.58]键盘：闫津\r\n[00:17.80]打击乐：祖力卡尔\r\n[00:20.03]鼓：张超\r\n[00:22.26]录音/混音：郑仕伟（Music Flow Studio）\r\n[00:24.49]你说你知道他们的世界\r\n[00:30.70]悲歌三首买一切\r\n[00:36.17]买昆仑落脚 蓬莱放思想\r\n[00:42.18]买人们的争执酿酒汤\r\n[00:48.66]买公主坟的乌鸦\r\n[00:53.96]事发之木和东窗之麻\r\n[01:00.27]买胭脂河里船行渔歌\r\n[01:06.24]黄金世界中万物法则\r\n[01:13.19]你我都一样 将被遗忘 郭源潮\r\n[01:23.77]你的病也和我的一样\r\n[01:28.39]风月难扯 离合不骚\r\n[01:34.22]层楼终究误少年 自由早晚乱余生\r\n[01:46.04]你我山前没相见 山后别相逢\r\n[03:32.76]买石灰街车站的海鸥\r\n[03:39.69]山水禽兽和年少一梦\r\n[03:46.74]买太平湖底陈年水墨\r\n[03:52.91]哥本哈根的童年传说\r\n[03:58.70]其实你我都一样 终将被遗忘 郭源潮\r\n[04:10.98]你的病也和我的一样\r\n[04:15.50]风月难扯 离合不骚\r\n[04:21.26]层楼终究误少年 自由早晚乱余生\r\n[04:33.14]你我山前没相见 山后别相逢\r\n[04:45.55]其实你我都一样 终将被遗忘 郭源潮\r\n[04:57.63]你的病也和我一样\r\n[05:02.55]风月难扯 离合不骚\r\n[05:08.09]层楼终究误少年 自由早晚乱余生\r\n[05:19.93]你我山前没相见 山后别相逢\r\n[05:31.74]你我山前没相见 山后别相逢\r\n[05:43.33]你我山前没相见 山后别相逢"
+      }
+  ]
+}
